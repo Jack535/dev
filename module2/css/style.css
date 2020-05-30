@@ -14,7 +14,7 @@
 		height: 300px;
 		margin-left: auto;
 		margin-right: auto;
-		background-color: #A52A2A;
+		background-color: gray;
 		font-family: Helaventica;
 		margin-bottom: 15px;
 	}
@@ -26,8 +26,9 @@
 		border: 1px solid black;
 		text-align: center;
 		font-size: 1.25em;
-	    margin-left: 60%;
-	    margin-top: 0
+	        margin-left: 60%;
+	        margin-top: 0
+		background-color: #FF7F50;
 	}
 
 	p.heading2 {
@@ -38,6 +39,7 @@
 		font-size: 1.25em;
 		margin-left: 60%;
 		margin-top: 0;
+		background-color: #DEB887;
 	}
 
 	p.heading3 {
@@ -48,6 +50,7 @@
 		font-size: 1.25em;
 		margin-left: 60%;
 		margin-top: 0;
+		background-color: #5F9EA0;
 	}
 
 	.row{
